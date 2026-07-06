@@ -169,7 +169,7 @@ Voice-Based-Concept-Understanding-Analyser/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Voice-Based-Concept-Understanding-Analyser.git
+git clone https://github.com/Prayagbhardwaj03/Voice-Based-Concept-Understanding-Analyser.git
 ```
 
 Move into the project folder
